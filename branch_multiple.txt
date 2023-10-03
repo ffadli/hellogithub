@@ -1,1 +1,6 @@
 this created from Master Branch
+edited from branch multiple 1
+adding:
+1. Node.JS
+2. React
+
