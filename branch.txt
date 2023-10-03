@@ -1,0 +1,9 @@
+Branch is the concept from git.
+Default branch for Project/Repository : Master Branch
+Branch used for collaborative work, build new experimental feature without compromising Master Branch if it doesnt work or you don't want that experimental feature include in main project/repo.
+
+Step:
+1. Create Git Branch
+2. Commit to new branch without affecting Master Branch.
+3. Experimental Feature
+4. Two people work in the same repo/project.
